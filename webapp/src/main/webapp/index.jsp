@@ -1,1 +1,1 @@
-Hello, World!
+Vozdra svijete!
