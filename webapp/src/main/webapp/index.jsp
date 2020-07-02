@@ -1,1 +1,1 @@
-Vozdra svijete, ba!
+Hello world!
